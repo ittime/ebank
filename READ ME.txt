@@ -1,0 +1,15 @@
+.
+.
+...[ java eBank project ]...
+.
+.
+
+this is a java program named "eBank project".
+this program is my final java course project.
+
+enjoy.
+
+
+::::[ $ git clone https://github.com/ittime/ebank.git ]::::
+
+.eof.
